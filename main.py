@@ -1,5 +1,5 @@
 import cv2
-from functions import DrawingBoard
+from utils import DrawingBoard
 
 board = DrawingBoard()
 
