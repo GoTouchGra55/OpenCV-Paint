@@ -1,14 +1,14 @@
-# OpenCV-Paint
+# 🎨 OpenCV-Paint
 
-A simple painting app built using **OpenCV** and **NumPy**.
+### A simple painting app built using **OpenCV** and **NumPy**.
 
-## Features
+## ✨ Features
 - Draw on a fullscreen canvas
 - Select colors: Red, Green, Blue, Black
 - Eraser functionality
 - Clear canvas
 
-## Installation
+## 🛠️ Installation
 
 1. Clone the repository:  
 ```
@@ -27,7 +27,7 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
    
-## Controls
+## 🎮 Controls
 
 | Action        | Key |
 |---------------|-----|
@@ -38,3 +38,9 @@ $ python main.py
 | Green Color   | **g** |
 | Blue Color    | **b** |
 | Black Color   | **d** |
+
+## 🤝 Contributing
+Feel free to open issues or submit pull requests!
+
+## 🚀 Notes
+Have fun painting! 🖌️🎉
