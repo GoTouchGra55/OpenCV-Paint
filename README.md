@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ```
 4. Run the main.py file: 
 ```
-python main.py
+$ python main.py
 ```
    
 ## Controls
